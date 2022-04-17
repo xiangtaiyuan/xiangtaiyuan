@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>写给小区居民的信</title>
+    <url>/2022/04/11/%E5%86%99%E7%BB%99%E5%B0%8F%E5%8C%BA%E5%B1%85%E6%B0%91%E7%9A%84%E4%BF%A1/</url>
+    <content><![CDATA[<h2 id="写给小区居民的信"><a href="#写给小区居民的信" class="headerlink" title="写给小区居民的信"></a>写给小区居民的信</h2><p>疫情期间，注意防护！</p>
+]]></content>
+      <categories>
+        <category>公告</category>
+      </categories>
+      <tags>
+        <tag>公告</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>信息聚合</title>
     <url>/2022/04/11/%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88/</url>
     <content><![CDATA[<p><a href="https://www.vigeotec.com/sh">上海疫情计算器</a><br><a href="https://anapub.geoq.cn/index.html?appId=5jaqvcjjbiik5oip0mt94883j0">上海疫情数据热力图</a></p>
@@ -13,9 +25,9 @@
       </tags>
   </entry>
   <entry>
-    <title>写给小区居民的信</title>
-    <url>/2022/04/11/%E5%86%99%E7%BB%99%E5%B0%8F%E5%8C%BA%E5%B1%85%E6%B0%91%E7%9A%84%E4%BF%A1/</url>
-    <content><![CDATA[<h2 id="写给小区居民的信"><a href="#写给小区居民的信" class="headerlink" title="写给小区居民的信"></a>写给小区居民的信</h2><p>疫情期间，注意防护！</p>
+    <title>团长指引</title>
+    <url>/2022/04/11/%E5%9B%A2%E9%95%BF%E6%8C%87%E5%BC%95/</url>
+    <content><![CDATA[<div style="width: 320px; margin: auto"> <img src="/images/团长指引.jpg"> </div>
 ]]></content>
       <categories>
         <category>公告</category>
@@ -49,11 +61,10 @@
       </tags>
   </entry>
   <entry>
-    <title>疫情信息更新</title>
-    <url>/2022/04/11/%E7%96%AB%E6%83%85%E4%BF%A1%E6%81%AF%E6%9B%B4%E6%96%B0/</url>
-    <content><![CDATA[<div style="width: 320px; margin: auto"> <img src="/images/疫情公告0409.jpg"> </div>
-翔泰苑小区疫情防控动态
-https://mp.weixin.qq.com/s/5fsqr3Msm5xjvlCj6guKbQ ]]></content>
+    <title>货运信息</title>
+    <url>/2022/04/11/%E8%B4%A7%E8%BF%90%E4%BF%A1%E6%81%AF/</url>
+    <content><![CDATA[<div style="width: 320px; margin: auto"> <img src="/images/货运信息0410.jpg"> </div>
+]]></content>
       <categories>
         <category>公告</category>
       </categories>
@@ -68,18 +79,6 @@ https://mp.weixin.qq.com/s/5fsqr3Msm5xjvlCj6guKbQ ]]></content>
 <li>如您有好的建议，请在评论区给出。</li>
 <li>采纳的建议将放此处汇总。</li>
 </ul>
-]]></content>
-      <categories>
-        <category>公告</category>
-      </categories>
-      <tags>
-        <tag>公告</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>货运信息</title>
-    <url>/2022/04/11/%E8%B4%A7%E8%BF%90%E4%BF%A1%E6%81%AF/</url>
-    <content><![CDATA[<div style="width: 320px; margin: auto"> <img src="/images/货运信息0410.jpg"> </div>
 ]]></content>
       <categories>
         <category>公告</category>
@@ -104,10 +103,11 @@ https://mp.weixin.qq.com/s/5fsqr3Msm5xjvlCj6guKbQ ]]></content>
       </tags>
   </entry>
   <entry>
-    <title>团长指引</title>
-    <url>/2022/04/11/%E5%9B%A2%E9%95%BF%E6%8C%87%E5%BC%95/</url>
-    <content><![CDATA[<div style="width: 320px; margin: auto"> <img src="/images/团长指引.jpg"> </div>
-]]></content>
+    <title>疫情信息更新</title>
+    <url>/2022/04/11/%E7%96%AB%E6%83%85%E4%BF%A1%E6%81%AF%E6%9B%B4%E6%96%B0/</url>
+    <content><![CDATA[<div style="width: 320px; margin: auto"> <img src="/images/疫情公告0409.jpg"> </div>
+翔泰苑小区疫情防控动态
+https://mp.weixin.qq.com/s/5fsqr3Msm5xjvlCj6guKbQ ]]></content>
       <categories>
         <category>公告</category>
       </categories>
